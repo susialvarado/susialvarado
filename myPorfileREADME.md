@@ -9,23 +9,23 @@ With some experience as a technician in the areas of debug, testing and IT suppo
 
 ### My skills
 
-<img width="70px" 
-    height="70px" 
+<img width="60px" 
+    height="60px" 
     style="margin: 10px"
     src="./assets/html.svg"> &nbsp;
-<img width="70px" 
-    height="70px" 
+<img width="60px" 
+    height="60px" 
     style="margin: 10px"
     src="./assets/css.svg"> &nbsp;
-<img width="70px" 
-    height="70px" 
+<img width="60px" 
+    height="60px" 
     style="margin: 10px"
     src="./assets/javascript.svg"> &nbsp; &nbsp;
-<img width="70px" 
-    height="70px" 
+<img width="60px" 
+    height="60px" 
     style="margin: 10px"
     src="./assets/python.svg"> &nbsp;
-<img width="70px" 
-    height="70px" 
+<img width="60px" 
+    height="60px" 
     style="margin: 10px"
     src="./assets/labview.svg"> &nbsp;
