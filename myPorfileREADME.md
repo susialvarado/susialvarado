@@ -7,7 +7,7 @@ With some experience as a technician in the areas of debug, testing and IT suppo
 - 📨 alvaradosusana000@gmail.com
 - 💭 https://www.linkedin.com/in/susana-alvarado-08ba43227/
 
-### Skills.
+### My skills
 
 <img width="70px" 
     height="70px" 
