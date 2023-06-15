@@ -29,3 +29,7 @@ With some experience as a technician in the areas of debug, testing and IT suppo
     height="60px" 
     style="margin: 10px"
     src="./assets/labview.svg"> &nbsp;
+<img width="60px" 
+    height="60px" 
+    style="margin: 10px"
+    src="./assets/mysql.svg"> &nbsp;
